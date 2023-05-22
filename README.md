@@ -1,3 +1,5 @@
+JUST PLAYING AROUND WITH THIS RIGHT NOW! NO PROMISES ON IT WORKING AT ALL! AND IF IT DOES WORK FOR YOU, NO PROMISES ON YOU BUYING TOKENS THAT CRASH OR ARE SPAMS.
+
 # PancakeSwap Snipper
 
 [![License](https://img.shields.io/github/license/Exohayvan/PancakeSwap-Snipper.svg)](https://github.com/Exohayvan/PancakeSwap-Snipper/blob/main/LICENSE)
